@@ -6,7 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="0063b013-f3a0-4469-850d-21ca1d9e62b9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="/mnt/repositorio/01_github/first-spring-app/.idea/workspace.xml" beforeDir="false" afterPath="/mnt/repositorio/01_github/first-spring-app/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luciano/first_spring_app/FirstSpringAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luciano/first_spring_app/FirstSpringAppApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/luciano/first_spring_app/controller/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luciano/first_spring_app/controller/HelloWorldController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="/mnt/repositorio/01_github/first-spring-app/src/main/java/com/luciano/first_spring_app/FirstSpringAppApplication.java" beforeDir="false" afterPath="/mnt/repositorio/01_github/first-spring-app/src/main/java/com/luciano/first_spring_app/FirstSpringAppApplication.java" afterDir="false" />
+      <change beforePath="/mnt/repositorio/01_github/first-spring-app/src/main/java/com/luciano/first_spring_app/controller/HelloWorldController.java" beforeDir="false" afterPath="/mnt/repositorio/01_github/first-spring-app/src/main/java/com/luciano/first_spring_app/controller/HelloWorldController.java" afterDir="false" />
+      <change beforePath="/mnt/repositorio/01_github/first-spring-app/src/main/resources/application.properties" beforeDir="false" afterPath="/mnt/repositorio/01_github/first-spring-app/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
