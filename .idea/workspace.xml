@@ -5,13 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0063b013-f3a0-4469-850d-21ca1d9e62b9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/easycode/codebase-v2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luciano/first_spring_app/configuration/HelloConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luciano/first_spring_app/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/luciano/first_spring_app/service/HelloWorldService.java" afterDir="false" />
+      <change afterPath="/mnt/repositorio/01_github/first-spring-app/.idea/easycode/codebase-v2.xml" afterDir="false" />
+      <change afterPath="/mnt/repositorio/01_github/first-spring-app/src/main/java/com/luciano/first_spring_app/configuration/HelloConfiguration.java" afterDir="false" />
+      <change afterPath="/mnt/repositorio/01_github/first-spring-app/src/main/java/com/luciano/first_spring_app/domain/User.java" afterDir="false" />
+      <change afterPath="/mnt/repositorio/01_github/first-spring-app/src/main/java/com/luciano/first_spring_app/service/HelloWorldService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/luciano/first_spring_app/FirstSpringAppApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luciano/first_spring_app/FirstSpringAppApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/luciano/first_spring_app/controller/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/luciano/first_spring_app/controller/HelloWorldController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="/mnt/repositorio/01_github/first-spring-app/src/main/java/com/luciano/first_spring_app/FirstSpringAppApplication.java" beforeDir="false" afterPath="/mnt/repositorio/01_github/first-spring-app/src/main/java/com/luciano/first_spring_app/FirstSpringAppApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/luciano/first_spring_app/controller/HelloWorldController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/luciano/first_spring_app/controller/HelloWorldController.class" afterDir="false" />
+      <change beforePath="/mnt/repositorio/01_github/first-spring-app/.idea/workspace.xml" beforeDir="false" afterPath="/mnt/repositorio/01_github/first-spring-app/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="/mnt/repositorio/01_github/first-spring-app/pom.xml" beforeDir="false" afterPath="/mnt/repositorio/01_github/first-spring-app/pom.xml" afterDir="false" />
       <change beforePath="/mnt/repositorio/01_github/first-spring-app/src/main/java/com/luciano/first_spring_app/controller/HelloWorldController.java" beforeDir="false" afterPath="/mnt/repositorio/01_github/first-spring-app/src/main/java/com/luciano/first_spring_app/controller/HelloWorldController.java" afterDir="false" />
       <change beforePath="/mnt/repositorio/01_github/first-spring-app/src/main/resources/application.properties" beforeDir="false" afterPath="/mnt/repositorio/01_github/first-spring-app/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="/mnt/repositorio/01_github/first-spring-app/target/classes/application.properties" beforeDir="false" afterPath="/mnt/repositorio/01_github/first-spring-app/target/classes/application.properties" afterDir="false" />
+      <change beforePath="/mnt/repositorio/01_github/first-spring-app/target/classes/com/luciano/first_spring_app/controller/HelloWorldController.class" beforeDir="false" afterPath="/mnt/repositorio/01_github/first-spring-app/target/classes/com/luciano/first_spring_app/controller/HelloWorldController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +40,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/luciano/first_spring_app/controller/HelloWorldController.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -44,20 +60,24 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2wuwpJAC0JQauFdV0ulEVEAdNIT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.FirstSpringAppApplication.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/luciano/repositorio/01_github/first-spring-app&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.FirstSpringAppApplication.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/luciano/repositorio/01_github/first-spring-app",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
-}</component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0063b013-f3a0-4469-850d-21ca1d9e62b9" name="Changes" comment="" />

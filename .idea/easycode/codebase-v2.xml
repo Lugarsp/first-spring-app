@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/src/main/java/com/luciano/first_spring_app/configuration/HelloConfiguration.java;/home/luciano/repositorio/01_github/first-spring-app/src/main/java/com/luciano/first_spring_app/controller/HelloWorldController.java;/home/luciano/repositorio/01_github/first-spring-app/src/main/java/com/luciano/first_spring_app/domain/User.java;/home/luciano/repositorio/01_github/first-spring-app/src/main/java/com/luciano/first_spring_app/service/HelloWorldService.java;/home/luciano/repositorio/01_github/first-spring-app/src/main/java/com/luciano/first_spring_app/FirstSpringAppApplication.java;/home/luciano/repositorio/01_github/first-spring-app/src/test/java/com/luciano/first_spring_app/FirstSpringAppApplicationTests.java;/home/luciano/repositorio/01_github/first-spring-app/HELP.md" />
+  </component>
+</project>
